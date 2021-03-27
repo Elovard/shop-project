@@ -18,6 +18,7 @@ target/
 *.iws
 *.iml
 *.ipr
+shop-project.iml
 
 ### NetBeans ###
 /nbproject/private/
@@ -52,7 +53,6 @@ build/
 *.zip
 *.tar.gz
 *.rar
-shop-project.iml
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
